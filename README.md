@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ARIBFIB
+# 👋 Hi, I'm Abdul Rehman Irfan
 
 [![GitHub followers](https://img.shields.io/github/followers/ARIBFIB?style=social)](https://github.com/ARIBFIB?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/ARIBFIB?style=social)](https://github.com/ARIBFIB?tab=stars)
