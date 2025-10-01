@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on cra
 
 ## 📱 Featured Projects
 
-### [QJ Quran Mobile App](https://github.com/ARIBFIB/QJ_Quran_MobileApp)
-A comprehensive Quran mobile application featuring translations, audio, bookmarks, and an intuitive UI for daily use.
+### [LUMORA electronics flutter Mobile app](https://github.com/ARIBFIB/LUMORA-electronics-flutter-Mobile-app)
+Welcome to Lumora, a modern mobile application designed to bring electronics products like chargers, extension wires, power strips, earphones, cables, and other accessories all in one place.
 
 ### [QJ Quran Mobile App (Flutter)](https://github.com/ARIBFIB/QJ_Quran_MobileApp_flutter)
 A cross-platform Quran app built with Flutter, focusing on performance and modern design.
