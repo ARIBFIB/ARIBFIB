@@ -51,24 +51,63 @@ I turn design handoffs into polished, maintainable products, with a focus on com
 
 ## 🛠️ Tech Stack
 
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,figma&perline=9" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,bootstrap,materialui,redux,vite,webpack,framer,figma&perline=15" alt="Frontend" />
 </p>
+
+### ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,electron,flutter,firebase,supabase&perline=7" alt="Backend and more" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,nestjs,mongodb,sqlite,postgres,supabase,firebase,python,django&perline=11" alt="Backend and databases" />
 </p>
+
+### 🖥️ Desktop & Mobile
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,azure,postman,vscode,androidstudio&perline=8" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=electron,flutter,dart,kotlin,java,androidstudio&perline=6" alt="Desktop and mobile" />
 </p>
+
+### 🧰 Tools, Testing & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,yarn,pnpm,jest,eslint,prettier,postman,docker,vercel,azure,powershell,vscode&perline=15" alt="Tools" />
+</p>
+
+### 📦 NPM Packages I Work With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=npm&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/TanStack_Router-0F172A?style=flat-square&logo=npm&logoColor=white" alt="TanStack Router" />
+  <img src="https://img.shields.io/badge/TanStack_Table-0E7490?style=flat-square&logo=npm&logoColor=white" alt="TanStack Table" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=npm&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=npm&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Jotai-111827?style=flat-square&logo=npm&logoColor=white" alt="Jotai" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=npm&logoColor=white" alt="Recoil" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=npm&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=npm&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=npm&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=npm&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=npm&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=npm&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/dnd--kit-6D28D9?style=flat-square&logo=npm&logoColor=white" alt="dnd-kit" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=npm&logoColor=white" alt="Recharts" />
+  <img src="https://img.shields.io/badge/jsPDF-C2185B?style=flat-square&logo=npm&logoColor=white" alt="jsPDF" />
+  <img src="https://img.shields.io/badge/Sonner-F59E0B?style=flat-square&logo=npm&logoColor=white" alt="Sonner" />
+  <img src="https://img.shields.io/badge/Lucide_Icons-F56565?style=flat-square&logo=npm&logoColor=white" alt="Lucide Icons" />
+</p>
+
+### 📋 Skills at a Glance
 
 | Area | Technologies |
 |---|---|
-| **Core** | React.js, Next.js (App Router), TypeScript, JavaScript (ES6+), HTML5, CSS3 |
-| **Styling & UI** | Tailwind CSS, shadcn/ui, Ant Design, Framer Motion, responsive and mobile-first design |
+| **Core** | React.js, Next.js (App Router), TypeScript, JavaScript (ES6+), HTML5, CSS3, Sass |
+| **Styling & UI** | Tailwind CSS, Bootstrap, Material UI, shadcn/ui, Ant Design, Framer Motion, responsive and mobile-first design |
 | **State & Data** | TanStack Query, TanStack Router, TanStack Table, Zustand, Redux Toolkit, Context API, React Hook Form, Zod |
-| **Backend Integration** | REST APIs, Node.js, Express.js, MongoDB, Supabase |
-| **Desktop & Mobile** | Electron.js, Flutter |
-| **Tools & Cloud** | Git, GitHub, Vercel, Docker, Microsoft Azure, Postman |
+| **Next.js Backend** | Route Handlers (API routes), Server Actions, Middleware, SSR / SSG / ISR, Supabase SSR auth, protected routes |
+| **Backend & APIs** | Node.js, Express.js, NestJS (basics), REST API design and integration, JWT auth |
+| **Databases** | MongoDB, SQLite3, PostgreSQL (Supabase), Firebase |
+| **Desktop & Mobile** | Electron.js (barcode and printer integration), Flutter |
+| **Tooling** | npm / yarn / pnpm, Vite, Webpack, ESLint, Prettier, Jest, Git, GitHub Actions, PowerShell scripting |
+| **Cloud & Deployment** | Vercel, Docker, Microsoft Azure, Supabase Edge Functions |
+| **Testing & API Tools** | Postman, Jest |
 
 ---
 
